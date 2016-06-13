@@ -11,7 +11,7 @@ Group Butler is a Telegram API bot written in Lua. It has been created to help t
 
 This bot takes its long-polling loop and its structure from Otouto 3.1 and it's plugin-based. This makes easier to manage each function and command of the bot, and allows to split the different capabilities of it in different files for a more specific vision of what it should do.
 
-Follow the [channel](https://telegram.me/groupbutler_ch) if you want to be updated about new changes. The official bot is [@GroupButler_bot](http://github.com/groupbutler_bot).
+Follow the [channel](https://telegram.me/ButlerTG) if you want to be updated about new changes. The official bot is [@TeleButler_bot](http://github.com/groupbutler_bot).
 
 * * *
 
@@ -44,7 +44,7 @@ Clone the github repository:
 ```bash
 # Clone the repo and give the permission to start the launch script
 
-$ git clone https://github.com/RememberTheAir/GroupButler.git
+$ git clone https://github.com/TeleAndroid/GroupButler.git
 $ cd GroupButler && sudo chmod 777 launch.sh
 ```
 
